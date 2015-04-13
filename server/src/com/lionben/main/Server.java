@@ -9,7 +9,7 @@ import com.lionben.utils.SettingsUtils;
 import org.apache.activemq.ActiveMQConnection;
 
 /**
- * @author lionben
+ * @author lionben (lionbenx@gmail.com)
  */
 public class Server extends BaseConfig {
 
